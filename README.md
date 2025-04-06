@@ -1,2 +1,3 @@
 # Responsive-side-bar
-Responsive-side-bar
+
+Simple Responsive-side-bar
